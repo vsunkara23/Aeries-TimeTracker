@@ -1,6 +1,6 @@
 # AeriesTimeTrackerProject
 
- Built mobile application based on Java using
+ Implemented mobile application based on Java using
 android studio to allow Aeries Hyderabad Office
 to monitor employees and their performance
 conveniently by phone.
