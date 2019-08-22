@@ -23,6 +23,6 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 
 App UI  files @ app->src->main->res
 
-![test image size](IMG.PNG){:height="400px" width="300px"}
+![test image size](IMG.PNG){:height="100px" width="50px"}
 
 
