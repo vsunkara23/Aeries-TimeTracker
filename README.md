@@ -23,5 +23,5 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 
 App UI  files @ app->src->main->res
 
-![](IMG.PNG =100x20
+![](IMG.PNG =100x20)
 
