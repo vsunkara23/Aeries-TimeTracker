@@ -23,4 +23,6 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 
 App UI  files @ app->src->main->res
 
-<img src="IMG.png" width="200">
+
+<img src="IMG.jpg" alt="drawing" width="200"/>
+
