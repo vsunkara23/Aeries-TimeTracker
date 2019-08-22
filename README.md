@@ -23,10 +23,6 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 
 App UI  files @ app->src->main->res
 
-
-![alt text](IMG.PNG | width = 400)
-![test image size](IMG.PNG){:class="img-responsive"}
-![test image size](IMG.PNG){:height="50%" width="50%"}
-![test image size](IMG.PNG){:height="700px" width="400px"}
+![test image size](IMG.PNG){:height="400px" width="300px"}
 
 
