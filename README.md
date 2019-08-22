@@ -24,7 +24,7 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 App UI  files @ app->src->main->res
 
 
-![alt text](IMG.PNG | width = 400)
+![](IMG.PNG | width = 400)
 
 
 
