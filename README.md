@@ -24,7 +24,8 @@ LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTr
 App UI  files @ app->src->main->res
 
 
-![alt text](IMG.png)
+
+<img src="https://user-images.githubusercontent.com/43553784/63488972-6945cd00-c4ce-11e9-8e3a-e613a5e3705d.PNG" alt="Aeries TimeTracker App" width="200"/>
 
 
 
