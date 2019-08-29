@@ -15,7 +15,7 @@ code to manipulate HTML elements in webview
 to automatically log employee into webview
 version of the website.
 
-* Implemented features of webview to enable
+* Implemented custom webview to enable
 seamless user experience of mobile app version
 of the time-tracking web application.
 
