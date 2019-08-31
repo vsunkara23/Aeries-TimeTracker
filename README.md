@@ -10,15 +10,14 @@ conveniently by phone.
 and authenticated employee login details
 via webview.
 
-* Collected employee login credentials from
-mobile login activity and injected javascript 
-code to manipulate HTML elements in webview
-to automatically log employee into webview
+* Injected javascript code to manipulate HTML elements 
+in webview to automatically log employee into webview
 version of the website.
 
-* Implemented custom webview to enable
-seamless user experience of mobile app version
-of the time-tracking web application.
+* Implemented custom and responsive webview 
+design to enable seamless user experience of 
+mobile app version of the time-tracking web 
+app.
 
 LoginActivity.java & MainActivity.java @ app->src->main->java/com/sourcey/TimeTracker
 
