@@ -1,4 +1,4 @@
-# AeriesTimeTrackerProject
+# Aeries TimeTracker 
 
 * Built mobile application based on Java using
 android studio to allow employees
