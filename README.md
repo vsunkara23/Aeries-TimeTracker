@@ -1,5 +1,4 @@
 # Aeries TimeTracker 
-
 # (Private Enterprise Android App)
 
 * Built mobile application based on Java using
