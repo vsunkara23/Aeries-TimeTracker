@@ -1,4 +1,6 @@
-# Aeries TimeTracker \newline (Private Enterprise Android App)
+# Aeries TimeTracker 
+
+# (Private Enterprise Android App)
 
 * Built mobile application based on Java using
 android studio to allow employees
